@@ -44,8 +44,8 @@ career-profile:
     title: About Me
     summary:
       Hi, I’m Pankaj. I’m from Jaipur, Rajasthan.I’m a programmer and web developer and fan of technology, 
-        design, and music.I'd describe myself as a person with a versatile skill-set,a lot of integrity and 
-          a willingness to go the extra mile to take on challenges.
+      design, and music.I'd describe myself as a person with a versatile skill-set,a lot of integrity and 
+      a willingness to go the extra mile to take on challenges.
       
       I love learning from the experiences of each and every person I talk to.
 
@@ -79,20 +79,35 @@ projects:
     assignments:
       - title: Online Quiz Application
         link: "#https://github.com/erpankaj182/Online-Quiz-Application"
-        tagline: "A Quiz application with MCQ made in php and mysqli Database."
+        details: |
+        A Quiz application with MCQ made in php and mysqli Database. I have used following Technologies:-
+        
+          - Front End Technologies (For UI Designing) - HTML, CSS, Bootstrap
+          - Logic Building - PHP
+          - Backend - MySQLi Database
 
       - title: Online Portfolio
         link: "#http://www.pankajagrawal.info"
-        tagline: "A responsive website template to Showcase my Skills."
-
+        details: |
+        A responsive website template to Showcase my Skills. I have used following Technologies:-
+        
+          - HTML, CSS, Javascript, Bootstrap
+          
       - title: Meeting Management System
         link: "#"
-        tagline: "Using Appian BPM. Automated Management and Reporting System for office meetings"
-
+        details: |
+        Automated Management and Reporting System for office meetings. I have used following Technologies:-
+        
+          - Appian BPM (Cloud Technology) - SAIL(Logic Building)
+          - Database - SQL Server
+          
       - title: Employee Selection Management
         link: "#"
-        tagline: "Using Appian BPM. To automate the hiring process in an organization."
-
+        details: |
+        To automate the hiring process in an organization.. I have used following Technologies:-
+        
+          - Appian BPM (Cloud Technology) - SAIL(Logic Building)
+          - Database - SQL Server
 
 skills:
     title: Skills &amp; Proficiency
