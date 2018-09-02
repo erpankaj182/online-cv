@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: erpankaj182@gmail.com
-    phone: +91 7737 042061
+    phone: 91 7737 042061
     website: www.pankajagrawal.info #do not add http://
     linkedin: erpankaj1
     github: erpankaj182
@@ -41,45 +41,40 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
-    summary:
-      Hi, I’m Pankaj. I’m from Jaipur, Rajasthan. 
-      I’m a programmer and web developer and fan of technology, design, and music.
-      I'd describe myself as a person with a versatile skill-set, 
-      a lot of integrity and a willingness to go the extra mile to take on challenges.
-
+    title: About Me
+    summary: |
+      Hi, I’m Pankaj. I’m from Jaipur, Rajasthan.I’m a programmer and web developer and fan of technology, 
+      design, and music.I'd describe myself as a person with a versatile skill-set,a lot of integrity and 
+      a willingness to go the extra mile to take on challenges.
+      
       I love learning from the experiences of each and every person I talk to.
 
-      I enjoy turning Real Life problems into simple, beautiful and intuitive interface designs. 
-      When I'm not coding or pushing pixels, you'll find me at the scenic routes of the city.
-      I love cities I Love to Travel :) 
-      Because I think Life is not meant to Only work It is also about making good Friends 
-      and have a great adventure.I love to work with inspiring and creative agencies and people.
+      I enjoy turning Real Life problems into simple, beautiful and intuitive interface designs. When I'm 
+      not coding or pushing pixels, you'll find me at the scenic routes of the city. I love cities I Love
+      to Travel :) Because I think Life is not meant to Only work It is also about making good Friends and
+      have a great adventure.I love to work with inspiring and creative agencies and people.
       
 education:
     - degree: B.Tech.(Hons) in Computer Science
       university: SKIT, M & G  #&amp;
       time: 2014 - 2018
-      details:
-        Secured 77.07% Aggregate Marks
+      details: Secured 77.07% Aggregate Marks
 
     - degree: Senior Secondary Examination (RBSE)
       university: Kaushik Shiksha Niketan Senior Secondary School, Jaipur
       time: 2012 - 2013
-      details:
-        Secured 75.80% Aggregate Marks
+      details: Secured 75.80% Aggregate Marks
 	
     - degree: Secondary Examination (RBSE)
       university: Kaushik Shiksha Niketan Senior Secondary School, Jaipur
       time: 2010 - 2011
-      details:
-        Secured 79.00% Aggregate Marks	
+      details: Secured 79.00% Aggregate Marks	
 
 projects:
     title: Projects
     intro: >
       I have done following projects during My college time
-	  and in my Internship.
+      and in my Internship.
 
     assignments:
       - title: Online Quiz Application
