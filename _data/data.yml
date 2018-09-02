@@ -71,12 +71,6 @@ education:
       details: Secured 79.00% Aggregate Marks	
 
 projects:
-    title: Projects
-    intro: >
-      I have done following projects during My college time
-      and in my Internship.
-
-    assignments:
       - title: Online Quiz Application
         link: "#https://github.com/erpankaj182/Online-Quiz-Application"
         details: |
