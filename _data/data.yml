@@ -68,39 +68,30 @@ projects:
     assignments:
       - title: Online Quiz Application
         link: "#https://github.com/erpankaj182/Online-Quiz-Application"
-        tagline: |
-          A Quiz application with MCQ made in php and mysqli Database. 
-          I have used following Technologies
-
-            |- "Front End Technologies (For UI Designing) : HTML, CSS, Bootstrap"
-            |- "Logic Building : PHP"
-            |- "Backend : MySQLi Database"
+        tagline: 
+          "An online testing site which shows multiple quizzes. 
+          The user can select a quiz and give the test. Also, 
+          an admin panel providing CRUD operations. Using php,
+          MySQLi, Bootstrap, and JavaScipt."
 
       - title: Online Portfolio
         link: "#http://www.pankajagrawal.info"
-        tagline: |
-          A responsive website template to Showcase my Skills. 
-          I have used following Technologies
-
-            - "HTML, CSS, Javascript, Bootstrap"
+        tagline:
+          "Website to showcase my skills.
+           Using HTML and Materialized CSS."
           
       - title: Meeting Management System
         link: "#"
-        tagline: |
-          Automated Management and Reporting System for office meetings. 
-          I have used following Technologies
-
-            - "Appian BPM (Cloud Technology) : SAIL(Logic Building)"
-            - "Database : SQL Server"
-          
+        tagline:
+          "Automated Management and Reporting System for office meetings. 
+           Using Appian BPM (Cloud Technology)"
+            
       - title: Employee Selection Management
         link: "#"
         tagline: |
-          "To automate the hiring process in an organization.. I have used following Technologies:-"
-
-            - "Appian BPM (Cloud Technology) : SAIL(Logic Building)"
-            - "Database : SQL Server"
-
+          "To automate the hiring process in an organization.. I have used following Technologies
+          Using Appian BPM (Cloud Technology)"
+          
 publications:
     title: Achievements & Extra Curricular
     intro: |
@@ -128,14 +119,19 @@ skills:
 
     toolset:
       - name: Appian
-        level: 88%
+        level: 75%
 
       - name: HTML & CSS
-        level: 80%
+        level: 70%
 
       - name: Database
-        level: 75%
+        level: 70%
 
       - name: PHP
         level: 70%
 
+      - name: Cloud Technologies (Big Data)
+        level: 30%
+
+      - name: Mongo DB
+        level: 30%
