@@ -71,9 +71,12 @@ education:
       details: Secured 79.00% Aggregate Marks	
 
 projects:
+    title: Projects
+    
+    assignments:
       - title: Online Quiz Application
         link: "#https://github.com/erpankaj182/Online-Quiz-Application"
-        details: |
+        tagline: |
           A Quiz application with MCQ made in php and mysqli Database. 
           I have used following Technologies
 
@@ -83,7 +86,7 @@ projects:
 
       - title: Online Portfolio
         link: "#http://www.pankajagrawal.info"
-        details: |
+        tagline: |
           A responsive website template to Showcase my Skills. 
           I have used following Technologies
 
@@ -91,7 +94,7 @@ projects:
           
       - title: Meeting Management System
         link: "#"
-        details: |
+        tagline: |
           Automated Management and Reporting System for office meetings. 
           I have used following Technologies
 
@@ -100,7 +103,7 @@ projects:
           
       - title: Employee Selection Management
         link: "#"
-        details: |
+        tagline: |
           "To automate the hiring process in an organization.. I have used following Technologies:-"
 
             - "Appian BPM (Cloud Technology) : SAIL(Logic Building)"
