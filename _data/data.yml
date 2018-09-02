@@ -10,7 +10,7 @@ sidebar:
     name: Pankaj Agrawal
     tagline: Software Engineer
     avatar: me.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-0------0-
+
     # Sidebar links
     email: erpankaj182@gmail.com
     phone: 91 7737 042061
@@ -125,3 +125,24 @@ skills:
       - name: PHP
         level: 70%
 
+publications:
+    title: Achievements & Extra Curricular
+    intro: |
+      During My Academic career I have gone through various extra curricular
+      activities which helps me to grow and learn the things apart from books.
+      
+    papers:
+      - title: "Active Participant of College Blood Donation Camp."
+        authors: Organised at SKIT Campus
+        
+      - title: "Active Participant of College Annual Fest"
+        authors: Organised various events and, also done Volunteering
+        
+      - title: "Attended national workshop on “Android Application”
+        authors: Organised by IBM
+
+      - title: "Participated in Rajasthan Hackathon 3.0"
+        authors: Organised by Rajasthan Govt. in Udaipur
+
+      - title: "Attended Infosys Foundation Program."
+        authors: under the aegis of the Infosys Campus Connect Program
