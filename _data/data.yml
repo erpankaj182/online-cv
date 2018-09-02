@@ -42,7 +42,7 @@ sidebar:
 
 career-profile:
     title: About Me
-    summary:
+    summary: |
       Hi, I’m Pankaj. I’m from Jaipur, Rajasthan.I’m a programmer and web developer and fan of technology, 
       design, and music.I'd describe myself as a person with a versatile skill-set,a lot of integrity and 
       a willingness to go the extra mile to take on challenges.
@@ -55,8 +55,8 @@ career-profile:
       have a great adventure.I love to work with inspiring and creative agencies and people.
       
 education:
-    - degree: B.Tech.(Hons) in Computer Science
-      university: SKIT, M & G  #&amp;
+    - degree: "B.Tech.(Hons) in Computer Science"
+      university: "SKIT, M & G"
       time: 2014 - 2018
       details: Secured 77.07% Aggregate Marks
 
