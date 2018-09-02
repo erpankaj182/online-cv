@@ -135,3 +135,7 @@ skills:
 
       - name: Mongo DB
         level: 30%
+
+footer: >
+    Go to <a href="http://pankajagrawal.info/" target="_blank" rel="nofollow">Pankaj Agrawal</a>
+
