@@ -80,7 +80,8 @@ projects:
       - title: Online Quiz Application
         link: "#https://github.com/erpankaj182/Online-Quiz-Application"
         details: |
-          "A Quiz application with MCQ made in php and mysqli Database. I have used following Technologies:-"
+          A Quiz application with MCQ made in php and mysqli Database. 
+          I have used following Technologies
 
             - "Front End Technologies (For UI Designing) : HTML, CSS, Bootstrap"
             - "Logic Building : PHP"
@@ -89,14 +90,16 @@ projects:
       - title: Online Portfolio
         link: "#http://www.pankajagrawal.info"
         details: |
-          "A responsive website template to Showcase my Skills. I have used following Technologies:-"
+          A responsive website template to Showcase my Skills. 
+          I have used following Technologies
 
             - "HTML, CSS, Javascript, Bootstrap"
           
       - title: Meeting Management System
         link: "#"
         details: |
-          "Automated Management and Reporting System for office meetings. I have used following Technologies:-"
+          Automated Management and Reporting System for office meetings. 
+          I have used following Technologies
 
             - "Appian BPM (Cloud Technology) : SAIL(Logic Building)"
             - "Database : SQL Server"
