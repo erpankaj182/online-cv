@@ -109,22 +109,6 @@ projects:
           - Appian BPM (Cloud Technology) - SAIL(Logic Building)
           - Database - SQL Server
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Appian
-        level: 88%
-
-      - name: HTML & CSS
-        level: 80%
-
-      - name: Database
-        level: 75%
-
-      - name: PHP
-        level: 70%
-
 publications:
     title: Achievements & Extra Curricular
     intro: |
@@ -146,3 +130,20 @@ publications:
 
       - title: "Attended Infosys Foundation Program."
         authors: under the aegis of the Infosys Campus Connect Program
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Appian
+        level: 88%
+
+      - name: HTML & CSS
+        level: 80%
+
+      - name: Database
+        level: 75%
+
+      - name: PHP
+        level: 70%
+
