@@ -42,7 +42,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary:
       Hi, I’m Pankaj. I’m from Jaipur, Rajasthan. 
 	  I’m a programmer and web developer and fan of technology, design, and music.
       I'd describe myself as a person with a versatile skill-set, 
@@ -60,19 +60,19 @@ education:
     - degree: B.Tech.(Hons) in Computer Science
       university: SKIT, M & G  #&amp;
       time: 2014 - 2018
-      details: |
+      details:
         Secured 77.07% Aggregate Marks
 
     - degree: Senior Secondary Examination (RBSE)
       university: Kaushik Shiksha Niketan Senior Secondary School, Jaipur
       time: 2012 - 2013
-      details: |
+      details:
         Secured 75.80% Aggregate Marks
 	
     - degree: Secondary Examination (RBSE)
       university: Kaushik Shiksha Niketan Senior Secondary School, Jaipur
       time: 2010 - 2011
-      details: |
+      details:
         Secured 79.00% Aggregate Marks	
 
 projects:
